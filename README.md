@@ -1,0 +1,1 @@
+# Javascript_Czechitas_exercise
